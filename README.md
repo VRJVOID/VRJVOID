@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VRJVOID" alt="VRJVOID" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with java,Spring,React.Js, Node.Js with Express.Js
+- 🌱 I’m currently learning **DSA with java,React.Js, Node.Js with Express.Js, MongoDB
 
 - 👨‍💻 All of my projects are available at [https://github.com/VRJVOID](https://github.com/VRJVOID)
 
