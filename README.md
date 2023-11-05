@@ -1,5 +1,5 @@
 ### Hi there I am Viraj Sonawane 👋
- I’m currently learning React.Js and Express.Js.
+ I’m currently learning React.Js and Express.Js
  I’m looking to collaborate on Open Source Projects
 <!--
 **VRJVOID/VRJVOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VRJVOID" alt="VRJVOID" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with java,React.Js, Node.Js with Express.Js, MongoDB
+- 🌱 I’m currently learning **DSA with JAVA ,React.Js, Node.Js with Express.Js, MongoDB
 
 - 👨‍💻 All of my projects are available at [https://github.com/VRJVOID](https://github.com/VRJVOID)
 
