@@ -1,6 +1,6 @@
 ### Hi there I am Viraj Sonawane 👋
  I’m currently learning React.Js and Express.Js
- I’m looking to collaborate on Open Source Projects
+ I’m looking to collaborate on Open Source Projects and MERN Projects.
 <!--
 **VRJVOID/VRJVOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/VRJVOID](https://github.com/VRJVOID)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **virajsonawane722@gmail.com**
 
