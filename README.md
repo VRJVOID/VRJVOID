@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **virajsonawane722@gmail.com**
+- 📫 How to reach me **virajsonawane.scoe.it@gmail.com**
 
 - 📄 Know about my experiences [ https://drive.google.com/file/d/197tjVBRACJYsH6WwVbT9_o4coDkWQ9l7/view?usp=drive_link ]
 
